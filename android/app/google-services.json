@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48647878255",
+    "project_id": "flutterodev-f636a",
+    "storage_bucket": "flutterodev-f636a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48647878255:android:a654afb3b02b9ca94dff9a",
+        "android_client_info": {
+          "package_name": "com.berrubulbul.gorselprogramlamaodev.berrubulbulodev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZmDAuaRwZgiE_lvkanEUeG_9DiJWFuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
